@@ -290,7 +290,7 @@ main section{
 
 @media (max-width: 991px) {
   .contact{
-    padding: 50px;
+    padding: 0;
   }
   .container{
     flex-direction: column;
@@ -300,6 +300,8 @@ main section{
   }
   .container .contactInfo, .contactForm{
     width: 100%;
-
+  }
+  .contactForm .inputBox input[type="submit"]{
+    margin-left: 28%;
   }
 }

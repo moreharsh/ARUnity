@@ -230,17 +230,30 @@ a{
 }
 
 /*--responsive for mobile phone--*/
-@media(max-width:720px){
+@media (max-width:720px){
+  section h1{
+    margin-left: 50px;
+    font-size: 30px;
+    margin-top: 30px;
+  }
+
   main section{
     max-width: 100%;
   }
+
+  section .container{
+      margin-top: 20px;
+  }
+
 	.box{
 		width: 94%;
 		height: 500px;
 	}
+
 	.model{
 		height:250px;
 	}
+
 	.details p{
 		font-size: 16px;
 		width: 250px;

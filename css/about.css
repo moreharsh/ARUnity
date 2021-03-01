@@ -250,3 +250,10 @@ section .container img:hover{
   transform: scale(1.25);
   box-shadow: 0 25px 40px rgba(0, 0, 0, .5);
 }
+
+@media (max-width: 991px) {
+  section .container{
+    margin-top: 120px;
+    margin-left: 20px;
+  }
+}
