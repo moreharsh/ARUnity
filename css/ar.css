@@ -247,8 +247,9 @@ a{
   }
 
 	.box{
+    margin-left: 15px;
 		width: 94%;
-		height: 500px;
+		height: 560px;
 	}
 
 	.model{
