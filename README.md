@@ -32,7 +32,7 @@ App can be installed with the help of the APK file which is present inside the a
 The subtopic which was chosen in the website has to be chosen in the app as well, after which a scanner will get opened. On scanning the images from the website with the help of the app scanner, 3D models of images will get Augmented on them and thus will be seen through the app. 
 
 <h3>Results</h3>
-<img src="media/Arthor.jpeg" alt="Arthur" width="200" height="400" />
+<img src="media/Arthur.jpeg" alt="Arthur" width="200" height="400" />
 <img src="media/Barberian.jpeg" alt="Barberian" width="200" height="400"/>
 
 <h3>GitHub Link: </h3> <a href="https://github.com/more-harsh/ARUnity"> https://github.com/more-harsh/ARUnity </a>
