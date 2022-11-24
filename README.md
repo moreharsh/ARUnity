@@ -21,6 +21,7 @@ Following are the navigations for:
 * media/ - conatins banner image and results
 
 <h2>Steps to Install and Run the Project</h2>
+
 * Open ARUnity website on your Laptop (https://moreharsh.github.io/ARUnity/).
 * Go to AR ASSET STORE.
 * Visit https://github.com/moreharsh/ARUnity-Apk and download and install the ARUnity.apk file on your android device.
